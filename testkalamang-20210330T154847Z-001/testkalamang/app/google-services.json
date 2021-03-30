@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473144330610",
+    "project_id": "kalamang-5e88a",
+    "storage_bucket": "kalamang-5e88a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473144330610:android:bf96d8c021481efff635eb",
+        "android_client_info": {
+          "package_name": "com.example.testkalamang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473144330610-ofsmsd1bvsgtf0ikn3cng3hmo2d2c2t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rysVTb-WuQ-TKwRftjYbRiqfH4Z7nzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473144330610-ofsmsd1bvsgtf0ikn3cng3hmo2d2c2t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
